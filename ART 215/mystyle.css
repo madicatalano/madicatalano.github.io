@@ -57,7 +57,7 @@ nav{
 }
 
 .slider{
-    background-color: yellow;
+    background-color: #FFFFFF;
     width: 70%;
     height: 46%;
     margin: auto;
@@ -66,7 +66,7 @@ nav{
 section{
     background-color: #FFFFFF;
     width: 70%;
-    height: 90%;
+    height: 100%;
     margin: auto;
 }
 
