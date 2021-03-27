@@ -57,10 +57,13 @@ nav{
 }
 
 .slider{
-    background-color: #FFFFFF;
+    background-color: yellow;
     width: 70%;
-    height: 46%;
+    height: 45%;
     margin: auto;
+    padding-bottom: .3%;
+    margin-bottom: 0;
+
 }
 
 section{
